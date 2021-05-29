@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-sandy",
+  "name": "@SandyKim-code/eslint-config-sandy",
   "version": "1.0.0",
   "description": "sandy's typescript ESLint config",
   "main": "index.js",
