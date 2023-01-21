@@ -1,5 +1,5 @@
 {
-  "name": "@SandyKim-code/eslint-config-sandy",
+  "name": "@sandy-kim/eslint-config-sandy",
   "version": "1.0.0",
   "description": "sandy's typescript ESLint config",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SandyKim-code/eslint-config-sandy"
+    "url": "git+https://github.com/sandy-kim/eslint-config-sandy"
   },
   "keywords": [
     "eslint",
@@ -18,9 +18,9 @@
   "author": "Sandy Kim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SandyKim-code/eslint-config-sandy/issues"
+    "url": "https://github.com/sandy-kim/eslint-config-sandy/issues"
   },
-  "homepage": "https://github.com/SandyKim-code/eslint-config-sandy#readme",
+  "homepage": "https://github.com/sandy-kim/eslint-config-sandy#readme",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^3.10.1",
     "@typescript-eslint/parser": "^3.10.1",
